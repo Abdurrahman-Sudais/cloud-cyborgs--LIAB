@@ -12,7 +12,10 @@ export default function Landing() {
       <header className="landing-nav">
         <div className="landing-logo">
           <div className="sidebar-logo-box">
-            <div className="sidebar-logo-dot" />
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--cyan-primary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M22 10v6M2 10l10-5 10 5-10 5z"/>
+              <path d="M6 12v5c3 3 9 3 12 0v-5"/>
+            </svg>
           </div>
           <span className="landing-logo-name">LIAB</span>
         </div>

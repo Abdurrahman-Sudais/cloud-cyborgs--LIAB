@@ -33,7 +33,10 @@ export default function Sidebar() {
       <div className="sidebar-header">
         <div className="sidebar-brand">
           <div className="sidebar-logo-box">
-            <div className="sidebar-logo-dot" />
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--cyan-primary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M22 10v6M2 10l10-5 10 5-10 5z"/>
+              <path d="M6 12v5c3 3 9 3 12 0v-5"/>
+            </svg>
           </div>
           <div className="sidebar-brand-text">
             <span className="brand-name">LIAB</span>
