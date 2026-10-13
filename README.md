@@ -1,7 +1,7 @@
 # 🧠 LIAB – The AI Operating System for Student Success
 
 > **Google Gemma 4 Hackathon Submission**  
-> *Developed by [Abdurrahman Sudais](https://github.com/Abdurrahman-Sudais) & [Awwal Adepoju](https://github.com/)*
+> *Developed by [Abdurrahman Sudais](https://github.com/Abdurrahman-Sudais) & [Awwal Adepoju](https://github.com/D-Data-alchemist)*
 
 ![LIAB Studio Interface](./src/assets/hero.png)
 
